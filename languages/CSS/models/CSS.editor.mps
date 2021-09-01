@@ -82,6 +82,7 @@
   <node concept="24kQdi" id="1VWD0S1PgFg">
     <ref role="1XX52x" to="1p42:1VWD0S1PewB" resolve="CSS_Declaration_Block" />
     <node concept="3EZMnI" id="1VWD0S1PgFT" role="2wV5jI">
+      <property role="S$Qs1" value="true" />
       <node concept="3F0ifn" id="1VWD0S1PgG0" role="3EZMnx">
         <property role="3F0ifm" value="{" />
       </node>
@@ -136,7 +137,6 @@
   <node concept="24kQdi" id="1VWD0S1PgLl">
     <ref role="1XX52x" to="1p42:1VWD0S1Pexn" resolve="CSS_Ruleset" />
     <node concept="3EZMnI" id="1VWD0S1PgLn" role="2wV5jI">
-      <property role="S$Qs1" value="true" />
       <node concept="3F2HdR" id="1VWD0S1PgLu" role="3EZMnx">
         <property role="2czwfO" value="," />
         <ref role="1NtTu8" to="1p42:1VWD0S1Pexx" resolve="selectors" />
