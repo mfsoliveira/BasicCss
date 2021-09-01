@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/CSS/CSS.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/CSS/sandbox/CSS.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/BasicCss.build/BasicCss.build.msd" folder="" />
     </projectModules>
   </component>
 </project>
