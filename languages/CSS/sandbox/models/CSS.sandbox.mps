@@ -40,6 +40,10 @@
           <property role="va4KG" value="background-color" />
           <property role="va4KE" value="red" />
         </node>
+        <node concept="va4Km" id="1VWD0S1QGZH" role="va4KZ">
+          <property role="va4KG" value="font-family" />
+          <property role="va4KE" value="sans-serif" />
+        </node>
       </node>
     </node>
     <node concept="va4Lp" id="1VWD0S1PzyM" role="va4LU">
