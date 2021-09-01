@@ -42,6 +42,20 @@
         </node>
       </node>
     </node>
+    <node concept="va4Lp" id="1VWD0S1PzyM" role="va4LU">
+      <node concept="va4KL" id="1VWD0S1PzyN" role="va4LJ">
+        <property role="TrG5h" value="td" />
+      </node>
+      <node concept="va4KL" id="1VWD0S1PzyW" role="va4LJ">
+        <property role="TrG5h" value="th" />
+      </node>
+      <node concept="va4KD" id="1VWD0S1PzyO" role="va4LH">
+        <node concept="va4Km" id="1VWD0S1Pzz5" role="va4KZ">
+          <property role="va4KG" value="padding" />
+          <property role="va4KE" value="8px" />
+        </node>
+      </node>
+    </node>
   </node>
 </model>
 
